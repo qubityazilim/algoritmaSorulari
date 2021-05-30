@@ -1,0 +1,2 @@
+# algoritmaSorulari
+Algoritma Soru Çözümleri
